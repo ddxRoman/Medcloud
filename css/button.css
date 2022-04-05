@@ -223,8 +223,8 @@ a {
   left: -15%;
   top: -50%;
   background: #42a396;
-  width: 40%;
-  height: 200%;
+  width: 20%;
+  height: 20%;
   padding: 0px;
   z-index: -1;
   transition: all 0.8s cubic-bezier(0.23, 1, 0.32, 1);
