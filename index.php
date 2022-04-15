@@ -1,42 +1,42 @@
-<!DOCTYPE html>
+<html lang="ru">
 <html lang="en">
+<title>PHP Имплементация PHP</title>
+
 
 <head>
-    <meta charset="UTF-8">
-    <link rel="icon" type="image" href="pics/ICO.jpg">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-    <!-- <link rel="stylesheet" type="text/css" href="css/button.css"> -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Medcloud</title>
+<link rel="icon" type="image" href="pics/ICO.jpg">
+ <link rel="stylesheet" type="text/css" href="css/style.php">
+ <link rel="stylesheet" type="text/css" href="css/button.css">
+    <a href="Home.html">
+        <meta charset="UTF-8">
+        <font size='28px'>!3/-\C!<</font>
+    </a>
 </head>
-
+ 
 <body>
-    <div class="all">
-        <div class="header">
-            <div class="ym"><a href="https://music.yandex.ua">ЯМ</a></div>
-            <div class="helper">
-                <a href="https://helper.bizonoff.ua/admin/projects/medcloud/knowledge-bases/dokumentatsiia-funktsionala" target="_blank">
-                    <button class="MD" >MEDCLOUD</button> </a>
-            </div>
-            <div class="autorize">Авторизация
-                <form action="" method="post">
-                    <input name="login" type="text" placeholder="Login"><br>
-                    <input name="password" type="password" placeholder="Password">
-                    <button type="submit">Войти</button>
-                </form>
-            </div>
+    <a href="index.php"><font size="28px">Return</font></a>
+    <div class="footimpl">
+        <div>
+            <a href="https://docs.google.com/spreadsheets/d/1oZZ7hU_wz8imVroFi5pgnICDY4iFqv4iGEx4xoUhvio/edit#gid=0"
+                target="_blank"><button
+                        class="custom-btn btn-12"><span>Дока </span><span>ЛОКДЦ</span></button></a>
+            <br><a class="gradient-btn" href="https://lis.lokdc.medcloud.pro/" target="_blank">
+			</a>
+
+            
+			<a class="gradient-btn" href="https://lis.lokdc.medcloud.pro/">Button</a>
+		
+
+		</div></a>
+		</div></span></button></a>
+                <a href="https://docs.google.com/spreadsheets/d/1IzxAWdmiGMHzByuBU0X5_uevGwmdO8_qxT7Ivm3piVI/edit#gid=721991591"
+                    target="_blank"><button class="custom-btn btn-12"><span>Дока </span><span>
+                            КНПЮМБЛ</span></button></a>
+                <br> <button></button><a href="https://lis.knpumbl.medcloud.pro/" target="_blank"><button
+                        class="custom-btn btn-12"><span>МИС </span><span>КНПЮМБЛ</span></button></a>
         </div>
-
-
-        <div class="body">
-            <div class="lmenu">Левое меню</div>
-            <div class="container">Body</div>
-            <div class="rmenu">Правое меню<br> Вероятно таск надо тулить</div>
-        </div>
-        <div class="footer">Footer тут рефреш и часы</div>
-
     </div>
+ 
 </body>
 
 </html>
